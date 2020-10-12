@@ -37,12 +37,13 @@ for item_name in ep_file_list:
     with open(item_name) as f:
         first_line = f.readline()
     f.close()
-
-    for index,item in enumerate(first_line):
+    index = 0
+    for item in first_line:
 
         if item.isdigit():
             Index_list = index
             break
+        index = index +1
 
     not_existed = list(set(cbp) - set(cbp_list))
     if ep_list[0] == item_name[0:4]:
