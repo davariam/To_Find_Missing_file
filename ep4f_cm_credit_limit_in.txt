@@ -1,0 +1,11 @@
+cm_credit_limit_tcbp1_2020.csv.gz
+cm_credit_limit_tcbp2_2020.csv.gz
+cm_credit_limit_tcbp3_2020.csv.gz
+cm_credit_limit_tcbp4_2020.csv.gz
+cm_credit_limit_tcbp5_2020.csv.gz
+cm_credit_limit_tcbp6_2020.csv.gz
+cm_credit_limit_tcbp7_2020.csv.gz
+cm_credit_limit_tcbp8_2020.csv.gz
+cm_credit_limit_tcbp10_2020.csv.gz
+cm_credit_limit_tcbp11_2020.csv.gz
+cm_credit_limit_tcbp12_2020.csv.gz
